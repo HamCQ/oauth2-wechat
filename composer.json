@@ -1,11 +1,11 @@
 {
-  "name": "nomiscz/oauth2-wechat",
+  "name": "hamzone/oauth2-wechat",
   "description": "WeChat OAuth 2.0 Client Provider for The PHP League OAuth2-Client",
   "license": "MIT",
   "authors": [
     {
-      "name": "NomisCZ",
-      "email": "nomiscz@outlook.com"
+      "name": "hamzone",
+      "email": "support@hamzone.cn"
     }
   ],
   "keywords": [
