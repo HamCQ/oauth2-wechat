@@ -1,11 +1,11 @@
 {
-  "name": "hamzone/oauth2-wechat",
+  "name": "hamcq/oauth2-wechat",
   "description": "WeChat OAuth 2.0 Client Provider for The PHP League OAuth2-Client",
   "license": "MIT",
   "authors": [
     {
-      "name": "hamzone",
-      "email": "support@hamzone.cn"
+      "name": "emin.lin",
+      "email": "emin.lin@live.com"
     }
   ],
   "keywords": [

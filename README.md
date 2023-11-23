@@ -1,6 +1,3 @@
-# WeChat Provider for OAuth 2.0 Client
-
-![License](https://img.shields.io/badge/license-MIT-blue.svg) [![Latest Stable Version](https://img.shields.io/packagist/v/nomiscz/oauth2-wechat.svg)](https://packagist.org/packages/nomiscz/oauth2-wechat)
 
 This package provides WeChat OAuth 2.0 support for the PHP League's [OAuth 2.0 Client](https://github.com/thephpleague/oauth2-client).
 
@@ -9,7 +6,7 @@ This package provides WeChat OAuth 2.0 support for the PHP League's [OAuth 2.0 C
 To install, use composer:
 
 ```
-composer require nomiscz/oauth2-wechat
+composer require hamcq/oauth2-wechat
 ```
 
 ## Usage
